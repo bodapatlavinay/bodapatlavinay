@@ -2,7 +2,7 @@
 
 ### 🚀 A Passionate Full-Stack Developer!!
 
-![Profile Views](https://komarev.com/ghpvc/?username=vinaybodapatla&style=flat-square)
+
 
 ## About Me
 
