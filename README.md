@@ -26,7 +26,7 @@
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vinaybodapatla) 
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/VinayBodapatla) 
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)]([https://github.com/VinayBodapatla](https://github.com/bodapatlavinay)) 
 
 [![Email](https://img.shields.io/badge/Email-%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:bodapatlavinaykumarreddy@gmail.com)
 
