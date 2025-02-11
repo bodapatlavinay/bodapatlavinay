@@ -1,4 +1,4 @@
-## Hi 👋, I'm Vinay Bodapatla Kumar Reddy
+## Hi 👋, I'm Vinay Kumar Reddy Bodapatla
 
 ### 🚀 A Passionate Full-Stack Developer!!
 
@@ -21,20 +21,15 @@
 - **Backend:** .NET Core, Node.js, ASP.NET MVC
 - **Database:** SQL Server, MySQL, PostgreSQL
 - **DevOps & Cloud:** AWS, Azure, GCP, Docker, Kubernetes
-- **Security:** OAuth2, JWT, SSL, Identity Server
 - **Tools & Platforms:** Git, Jenkins, Azure DevOps, Postman, Swagger
 
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vinaybodapatla) 
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/VinayBodapatla) 
-[![Medium](https://img.shields.io/badge/-Medium-%23000000?style=flat&logo=medium)](https://medium.com/@vinaybodapatla) 
-[![Email](https://img.shields.io/badge/Email-%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:vinay@example.com)
 
-## 📊 GitHub Stats
+[![Email](https://img.shields.io/badge/Email-%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:bodapatlavinaykumarreddy@gmail.com)
 
-![Vinay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VinayBodapatla&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinayBodapatla&layout=compact&theme=radical)
 
 ---
 
