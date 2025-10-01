@@ -1,4 +1,4 @@
-## Hi 👋, I'm Vinay Kumar Reddy Bodapatla
+## Hi 👋, I'm Vinay Kumar Reddy 
 
 ### 🚀 A Passionate Full-Stack Developer!!
 
