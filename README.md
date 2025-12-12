@@ -5,7 +5,7 @@
 
 ## About Me
 
-- 💻 I am a Full-Stack Developer specialising in **.NET Core, Angular, Node.js, and cloud platforms (Azure, AWS, GCP)**.
+- 💻 I am a Full-Stack Developer specialising in **.NET Core, React, Angular, Node.js, and cloud platforms (Azure, AWS, GCP)**.
 - 🎯 Passionate about **secure and scalable** software development, implementing protocols like **OAuth2, JWT, and SSL**.
 - 🔍 Skilled in **RESTful API development, microservices architecture, Docker, Kubernetes, and CI/CD pipelines**.
 - 📊 Experienced in **SQL Server, MySQL, and PL/SQL**, optimizing database performance and designing efficient data models.
